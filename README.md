@@ -9,4 +9,4 @@ Theses results demonstrate decent generalization capabilities of the model, but 
 
 Instructions:
 - To launch the program, download the necessary datasets and save them to your Google Drive.
-- To run the trainer, you need an API key from your profile on (https://wandb.ai/).
+- To run the trainer, you need an API key from your profile on https://wandb.ai/.
